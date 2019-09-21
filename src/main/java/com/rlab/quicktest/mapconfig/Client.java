@@ -82,7 +82,7 @@ public class Client {
        IMDGLoginCredentials login_cred= new IMDGLoginCredentials(username,password,thisClientIP);
        clientConfig.setCredentials(login_cred);
        
-        clientConfig.setLicenseKey("ENTERPRISE_HD#10Nodes#AqZdS9uJOQlyn0gB82CXEGmkwTHUY15iPK6fbjWMDN55109109020001000900910900010009111300110190");
+        clientConfig.setLicenseKey("ENTERPRISE_HD#10Nodes#xxxxxxxxxxxxxxxxxxxxxxxxxx");
         return HazelcastClient.newHazelcastClient(clientConfig);
     }
 }

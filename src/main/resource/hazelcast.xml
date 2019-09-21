@@ -19,7 +19,7 @@
            xmlns="http://www.hazelcast.com/schema/config"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-     <license-key>ENTERPRISE_HD#10Nodes#AqZdS9uJOQlyn0gB82CXEGmkwTHUY15iPK6fbjWMDN55109109020001000900910900010009111300110190</license-key>
+     <license-key>ENTERPRISE_HD#10Nodes#xxxxxxxxxxxxxxxxxxxxx</license-key>
      
      <management-center enabled="true">http://localhost:8080/mancenter/</management-center>
     <network>

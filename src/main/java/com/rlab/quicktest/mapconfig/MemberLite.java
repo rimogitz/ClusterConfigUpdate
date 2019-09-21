@@ -32,7 +32,7 @@ public class MemberLite {
         //
     	
     	/*Config config = new Config();
-    	config.setLicenseKey("ENTERPRISE_HD#10Nodes#OIUfw0b5TAuJrFy17ENkVKSjalHm61201998101191101110001101023010");
+    	config.setLicenseKey("ENTERPRISE_HD#10Nodes#xxxxxxxxxxxxxxxs");
     	NetworkConfig network = config.getNetworkConfig();
     	network.setPort(5701).setPortCount(20);
     	network.setPortAutoIncrement(true);
